@@ -1,0 +1,10 @@
+__pycache__
+.mypy_cache/
+models/
+checkpoint
+samples
+data_archive/
+env/
+models/
+.idea/
+data_to_train/
